@@ -9,4 +9,6 @@ Conditional.propTypes = {
   if: PropTypes.object
 };
 
-export default Conditional;
+export {
+  Conditional
+};
