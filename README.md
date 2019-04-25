@@ -26,7 +26,7 @@ render() {
 
 ### With Conditional
 ```jsx
-import Conditional from 'conditional-react';
+import {Conditional} from 'conditional-react';
 
 render() {
   return (

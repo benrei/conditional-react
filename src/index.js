@@ -6,7 +6,7 @@ const Conditional = (props) => {
 };
 
 Conditional.propTypes = {
-  if: PropTypes.object
+  if: PropTypes.any
 };
 
 export {
